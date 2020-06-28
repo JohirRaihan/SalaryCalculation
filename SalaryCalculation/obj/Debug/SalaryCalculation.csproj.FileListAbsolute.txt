@@ -1,0 +1,10 @@
+D:\Project\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.exe.config
+D:\Project\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.exe
+D:\Project\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.pdb
+D:\Project\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.csprojAssemblyReference.cache
+D:\Project\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.Form1.resources
+D:\Project\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.Properties.Resources.resources
+D:\Project\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.csproj.GenerateResource.cache
+D:\Project\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.csproj.CoreCompileInputs.cache
+D:\Project\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.exe
+D:\Project\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.pdb
